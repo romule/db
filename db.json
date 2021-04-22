@@ -1,10 +1,82 @@
-[{"id":1,"name":"Chevrolet","price":"€9667,53","img":"https://robohash.org/suntaperiamest.png?size=400x400&set=set1","article":"244739275-3","color":"Khaki"},
-{"id":2,"name":"Volvo","price":"€8793,26","img":"https://robohash.org/quoofficiisest.png?size=400x400&set=set1","article":"994883947-1","color":"Crimson"},
-{"id":3,"name":"Porsche","price":"€7139,32","img":"https://robohash.org/deseruntsequiaut.png?size=400x400&set=set1","article":"542382624-1","color":"Fuscia"},
-{"id":4,"name":"Chevrolet","price":"€5656,81","img":"https://robohash.org/quiassumendaoptio.png?size=400x400&set=set1","article":"179633910-5","color":"Maroon"},
-{"id":5,"name":"Porsche","price":"€4796,31","img":"https://robohash.org/asperioreslaborumaliquam.png?size=400x400&set=set1","article":"369802085-8","color":"Purple"},
-{"id":6,"name":"McLaren","price":"€8925,89","img":"https://robohash.org/voluptatumdelectussint.png?size=400x400&set=set1","article":"013543823-3","color":"Purple"},
-{"id":7,"name":"Buick","price":"€3698,87","img":"https://robohash.org/sedquisquamminima.png?size=400x400&set=set1","article":"082407132-8","color":"Goldenrod"},
-{"id":8,"name":"Dodge","price":"€6584,60","img":"https://robohash.org/repellendusoptiocupiditate.png?size=400x400&set=set1","article":"024910399-0","color":"Turquoise"},
-{"id":9,"name":"Buick","price":"€9372,42","img":"https://robohash.org/voluptatemquaeratalias.png?size=400x400&set=set1","article":"384283396-2","color":"Orange"},
-{"id":10,"name":"Audi","price":"€7934,91","img":"https://robohash.org/veritatisexpeditasequi.png?size=400x400&set=set1","article":"085434073-4","color":"Orange"}]
+[
+  {
+    "id": 1,
+    "name": "Chevrolet",
+    "price": "€9667,53",
+    "img": "https://robohash.org/suntaperiamest.png?size=400x400&set=set1",
+    "article": "244739275-3",
+    "color": "Khaki"
+  },
+  {
+    "id": 2,
+    "name": "Volvo",
+    "price": "€8793,26",
+    "img": "https://robohash.org/quoofficiisest.png?size=400x400&set=set1",
+    "article": "994883947-1",
+    "color": "Crimson"
+  },
+  {
+    "id": 3,
+    "name": "Porsche",
+    "price": "€7139,32",
+    "img": "https://robohash.org/deseruntsequiaut.png?size=400x400&set=set1",
+    "article": "542382624-1",
+    "color": "Fuscia"
+  },
+  {
+    "id": 4,
+    "name": "Chevrolet",
+    "price": "€5656,81",
+    "img": "https://robohash.org/quiassumendaoptio.png?size=400x400&set=set1",
+    "article": "179633910-5",
+    "color": "Maroon"
+  },
+  {
+    "id": 5,
+    "name": "Porsche",
+    "price": "€4796,31",
+    "img": "https://robohash.org/asperioreslaborumaliquam.png?size=400x400&set=set1",
+    "article": "369802085-8",
+    "color": "Purple"
+  },
+  {
+    "id": 6,
+    "name": "McLaren",
+    "price": "€8925,89",
+    "img": "https://robohash.org/voluptatumdelectussint.png?size=400x400&set=set1",
+    "article": "013543823-3",
+    "color": "Purple"
+  },
+  {
+    "id": 7,
+    "name": "Buick",
+    "price": "€3698,87",
+    "img": "https://robohash.org/sedquisquamminima.png?size=400x400&set=set1",
+    "article": "082407132-8",
+    "color": "Goldenrod"
+  },
+  {
+    "id": 8,
+    "name": "Dodge",
+    "price": "€6584,60",
+    "img": "https://robohash.org/repellendusoptiocupiditate.png?size=400x400&set=set1",
+    "article": "024910399-0",
+    "color": "Turquoise"
+  },
+  {
+    "id": 9,
+    "name": "Buick",
+    "price": "€9372,42",
+    "img": "https://robohash.org/voluptatemquaeratalias.png?size=400x400&set=set1",
+    "article": "384283396-2",
+    "color": "Orange"
+  },
+  {
+    "id": 10,
+    "name": "Audi",
+    "price": "€7934,91",
+    "img": "https://robohash.org/veritatisexpeditasequi.png?size=400x400&set=set1",
+    "article": "085434073-4",
+    "color": "Orange"
+  }
+]
