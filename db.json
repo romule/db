@@ -1,5 +1,12 @@
-[
-  {
-    "name": "Acer"
-  }
-]
+{
+  "items": [
+    {
+      "id": "0",
+      "name": "Acer",
+      "price": "404",
+      "pic": "https://bit.ly/3vbN9O6",
+      "article": 1231,
+      "color": "silver"
+    }
+  ]
+}
